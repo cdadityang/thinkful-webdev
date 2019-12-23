@@ -1,0 +1,17 @@
+
+.container{
+	width: 200px;
+	height: 200px;
+	background: green;
+	margin: auto;
+}
+.c1{
+	margin-top: 50px;
+	border: 1px solid black;
+	width: 500px;
+	height: 300px;
+}
+.i1{
+	height: 100px;
+	background: green;
+}

@@ -1,0 +1,48 @@
+.main{
+	font-size: 0;
+}
+.big{
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+	height: 500px;
+	border: 1px solid black;
+}
+.c1{
+	width: 800px;
+	height: 200px;
+	display: inline-flex;
+	
+}
+.c2{
+	width: 800px;
+	height: 300px;
+	display: inline-flex;
+	
+}
+.ic1{
+	width: 50%;
+	height: 200px;
+	background-color: green;
+}
+.ic2{
+	width: 50%;
+	height: 200px;
+	background-color: blue;
+}
+.ic3{
+	width: 33.33%;
+	height: 300px;
+	background-color: grey;
+}
+.ic4{
+	width: 33.33%;
+	height: 300px;
+	background-color: black;
+}
+.ic5{
+	width: 33.33%;
+	height: 300px;
+	background-color: orange;
+}
